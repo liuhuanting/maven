@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jul 18 03:23:46 CST 2015
-tinylog-2.0.0.jar>=
-tinylog-2.0.0.pom>=
+#Sat Jul 18 04:50:29 CST 2015
+tinylog-2.0.0.jar>liuhuanting-maven-snapshot-repository=
+tinylog-2.0.0.pom>liuhuanting-maven-snapshot-repository=

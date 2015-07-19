@@ -37,3 +37,8 @@ in `pom.xml`:
 	</dependency>
 </dependencies>
 ```
+---
+
+个人Maven仓库
+
+搭建方法见[利用GitHub搭建个人Maven仓库](http://liu.fm/2015/07/18/maven-repository-from-github/)
